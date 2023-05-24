@@ -30,3 +30,5 @@ let hasAcces = person["age"] > 17        // or: person.age
 // modify
 favCars[0] = "Opel"
 person["age"] = 10
+
+export {}
