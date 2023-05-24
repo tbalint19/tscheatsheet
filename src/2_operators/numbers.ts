@@ -25,9 +25,6 @@ let myRealNumber: number = +myNumber
 
 
 
-
-
-
 // fun fact
 let myString: string = "macska"
 let myNotNumber: number = +myString

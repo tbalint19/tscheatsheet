@@ -15,3 +15,5 @@ let fullname = firstname + " " + lastname
 let myNumber: number = 5
 let myString: string = "" + myNumber
 // value of myString is "5"
+
+export {}
