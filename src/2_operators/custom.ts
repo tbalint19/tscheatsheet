@@ -23,3 +23,5 @@ function getDoubleOfSumAsString2(num1: number, num2: number) {
   let result: string = "" + ((num1 + num2) * 2)
   return result
 }
+
+export {}
